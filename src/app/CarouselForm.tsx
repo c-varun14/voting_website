@@ -29,10 +29,10 @@ const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
 export default function CarouselForm({
-  candidatesData
+  candidatesData,
 }: {
   candidatesData: CandidateData[];
-}) {
+}): JSX.Element {
   const { mutate, isLoading, isError, isSuccess } = useMutation({
     mutationFn: async (finalData: Vote[]) =>
       await axios.post("/api", finalData),
@@ -48,17 +48,13 @@ export default function CarouselForm({
   if (!studentAdmissionNo) router.push("/login");
 
   if (isError) {
-    setTimeout(() => {
-      router.push("/login");
-    }, 3000);
-    return alert("Something went wrong try again");
-  } else if (isLoading) return <Loading className="border-darkest" />;
-  else if (isSuccess) {
-    setTimeout(() => {
-      router.push("/login");
-    }, 3000);
-    return alert("Your vote were successfully added");
-  }
+    return (
+      <p className=" font-semibold text-l text-red-500 ">
+        Enter a correct Admission No
+      </p>
+    );
+  } else if (isSuccess) router.push("/login");
+  else if (isLoading) return <Loading className="bg-darkest" />;
 
   if (candidatesData.length === 19 && extraData) {
     candidatesData.splice(9, 0, extraData[0]);
