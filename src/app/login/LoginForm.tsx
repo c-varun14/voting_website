@@ -20,7 +20,7 @@ export default function LoginForm() {
   const router = useRouter();
   const [formData, setformData] = useState(undefined);
 
-  const { isError, isInitialLoading, data } = useQuery({
+  const { isError, isInitialLoading, data} = useQuery({
     queryKey: ["searchStudent", formData],
     queryFn: async () => {
       const { data } = await axios.get("/api/login", {
@@ -44,13 +44,13 @@ export default function LoginForm() {
     resolver: zodResolver(schema),
   });
 
-  const dialogRef = useRef<React.Ref | undefined>(undefined);
+  const dialogRef = useRef<HTMLDialogElement>(undefined);
 
   const submitHandler = (data: FormData) => {
     dialogRef.current?.showModal();
     setformData(data);
   };
-  const submitModal = (e: Event) => {
+  const submitModal = (e: React.MouseEvent) => {
     e.preventDefault();
     localStorage.setItem("admissionNo", data.admissionNo);
     localStorage.setItem("house", data.house);
@@ -96,26 +96,6 @@ export default function LoginForm() {
             )}
           </div>
         </div>
-        {/*   <div className="mt-4"> */}
-        {/*     <select */}
-        {/*       className={inputClass} */}
-        {/*       {...register("house", { required: true })} */}
-        {/*     > */}
-        {/*       <option> --Select your house-- </option> */}
-        {/**/}
-        {/*       <option>Eton</option> */}
-        {/*       <option>Oxford</option> */}
-        {/*       <option>Leeds</option> */}
-        {/*       <option>Harrow</option> */}
-        {/*     </select> */}
-        {/*     {errors.house && ( */}
-        {/*       <p className=" font-semibold text-sm text-red-500 "> */}
-        {/*         Select your house */}
-        {/*       </p> */}
-        {/*     )} */}
-        {/*   </div> */}
-        {/* </div> */}
-
         <div>
           <button
             type="submit"

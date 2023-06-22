@@ -36,11 +36,12 @@ model Vote {
   id                   String    @id @unique @default(uuid())
   to                   Candidate @relation(fields: [candidateAdmissionNo], references: [id])
   candidateAdmissionNo String
-  by                   Student   @relation(fields: [voterAdmissionNo], references: [admissionNo])
-  voterAdmissionNo     String
+  by                   Student   @relation(fields: [voterAdmissonNo], references: [admissionNo])
+  voterAdmissonNo      String
 
+  @@unique([candidateAdmissionNo, voterAdmissonNo])
   @@index([candidateAdmissionNo])
-  @@index([voterAdmissionNo])
+  @@index([voterAdmissonNo])
 }
 
 enum House {

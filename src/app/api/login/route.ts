@@ -11,11 +11,12 @@ export async function GET(req: NextRequest) {
         votes: true,
       },
     });
+    console.log(data)
+    if(data.votes.length !== 0) return NextResponse.json({message: "Don't try to be too smart"}, {status: 400})
     if (!data) throw new Error();
-   
     return NextResponse.json(data);
   } catch (err) {
-    return NextResponse.json({ message: "Wrong details" }, { status: 400 });
+    return NextResponse.json({ message: "Enter a correct admissionNo" }, { status: 400 });
   }
 }
 

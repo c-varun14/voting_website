@@ -16,7 +16,7 @@ type Candidate = {
 
 type Vote = {
   candidateAdmissionNo: string;
-  voterAdmissionNo: string;
+  voterAdmissonNo: string;
 };
 type CandidateData = {
   ministry: string;
@@ -29,7 +29,7 @@ const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
 export default function CarouselForm({
-  candidatesData,
+  candidatesData
 }: {
   candidatesData: CandidateData[];
 }) {
@@ -67,7 +67,7 @@ export default function CarouselForm({
   const nextSlide = () => {
     setcurrSlide((prev) => prev + 1);
     submitData.push({
-      voterAdmissionNo: studentAdmissionNo,
+      voterAdmissonNo: studentAdmissionNo,
       candidateAdmissionNo: vote,
     });
     setbtnEnabled(false);

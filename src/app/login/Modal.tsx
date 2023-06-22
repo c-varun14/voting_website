@@ -1,4 +1,4 @@
-import { EventHandler } from "react";
+import React, { EventHandler, MutableRefObject } from "react";
 import Loading from "../loading";
 
 const Modal = ({
@@ -10,11 +10,11 @@ const Modal = ({
   isError,
 }: {
   title: string;
-  dialogRef: React.Ref;
+  dialogRef: MutableRefObject<HTMLDialogElement>;
   isInitialLoading: boolean;
   isError: boolean;
   data: { admissionNo: string; std: string; house: string; name: string };
-  submitHandler: EventHandler;
+  submitHandler: EventHandler<React.MouseEvent>;
 }) => {
   if (isError) dialogRef.current?.close();
   return (
