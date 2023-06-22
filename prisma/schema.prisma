@@ -1,0 +1,51 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+model Student {
+  admissionNo String     @id @unique
+  name        String
+  house       String
+  std         String
+  candidate   Candidate?
+  votes       Vote[]
+
+  @@index([admissionNo])
+}
+
+model Candidate {
+  id                 String  @id @unique @default(uuid())
+  student            Student @relation(fields: [studentAdmissionNo], references: [admissionNo])
+  studentAdmissionNo String  @unique
+  ministry           String
+  studentVotes       Vote[]
+
+  @@index([ministry])
+}
+
+model Vote {
+  id                   String    @id @unique @default(uuid())
+  to                   Candidate @relation(fields: [candidateAdmissionNo], references: [id])
+  candidateAdmissionNo String
+  by                   Student   @relation(fields: [voterAdmissionNo], references: [admissionNo])
+  voterAdmissionNo     String
+
+  @@index([candidateAdmissionNo])
+  @@index([voterAdmissionNo])
+}
+
+enum House {
+  ETON
+  OXFORD
+  LEEDS
+  HARROW
+}

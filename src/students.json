@@ -1,0 +1,2696 @@
+[
+{
+      "name": "AADYA DEV H",
+      "admissionNo": "70/2014",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "ADVAITH SAI K",
+      "admissionNo": "66/2014",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "ANUSH",
+      "admissionNo": "84/2023",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "AYUSHMAN PAUL",
+      "admissionNo": "139/2014",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "B AKSHITA",
+      "admissionNo": "20/2019",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "BATTINI CHARITHA",
+      "admissionNo": "73/2015",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "CHANDINI GOTTIPULLA",
+      "admissionNo": "87/2016",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "CHETHAN R",
+      "admissionNo": "10/2014",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "DEEPAK M",
+      "admissionNo": "179/2014",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DEEPIKA N",
+      "admissionNo": "163/2014",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "G MOHIUDDIN KHAN",
+      "admissionNo": "128/2016",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "HANSIKA S",
+      "admissionNo": "172/2014",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "ISHANVI PRASHANTH",
+      "admissionNo": "46/2017",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "JAISHNA PANDALA",
+      "admissionNo": "30/2014",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "K S TEJAS",
+      "admissionNo": "24/2015",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KARTHIK S",
+      "admissionNo": "19/2015",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "KAVIN KUMAR A",
+      "admissionNo": "01/2014",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LIKHIT NANDAN MUPPALLA",
+      "admissionNo": "48/2022",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "MITHUN H",
+      "admissionNo": "07/2014",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "N NADIA ZAIBA",
+      "admissionNo": "14/2017",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "NATYA YASHICA H",
+      "admissionNo": "31/2014",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NAVYADEEPIKA NAGARAPU",
+      "admissionNo": "145/2017",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "PADISETTY EASHANSAI",
+      "admissionNo": "132/2015",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "POLARAPU TEJAS CHOWDARY",
+      "admissionNo": "108/2018",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "POORVIKA M",
+      "admissionNo": "154/2014",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RIDA KAUNEIN",
+      "admissionNo": "17/2017",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "RISHAB A",
+      "admissionNo": "49/2014",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "RITHIK REDDY P",
+      "admissionNo": "35/2014",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "SINGARAJU VENKAT DEV CHARAN",
+      "admissionNo": "129/2022",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SWETANSHU BEHERA",
+      "admissionNo": "243/2022",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "TANISHKA R SHETTY",
+      "admissionNo": "86/2015",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "TANMAY R",
+      "admissionNo": "25/2014",
+      "std": "7 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "THANUJA K",
+      "admissionNo": "139/2015",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "VIJAYEERAGHAVENDRA. N",
+      "admissionNo": "QMIS1202432",
+      "std": "7 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "VISHNU PRIYA B",
+      "admissionNo": "074/2014",
+      "std": "7 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "YADHUNANDAN REDDY S",
+      "admissionNo": "186/2014",
+      "std": "7 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "AAKANKSHA MOLKERI",
+      "admissionNo": "61/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "ANAGHA K",
+      "admissionNo": "08/2014",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "B SUCHITRA",
+      "admissionNo": "26/2015",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "BANALA BHUVANATEJA",
+      "admissionNo": "81/2015",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "DHARANI NARRA",
+      "admissionNo": "70/2015",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "DIKSHITH GOWDA B",
+      "admissionNo": "188/2014",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "GIANA RAJ",
+      "admissionNo": "60/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "GITHUN REDDY M",
+      "admissionNo": "29/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "HARIHARAN GANESHAN",
+      "admissionNo": "114/2014",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "HITESH KALAVAGUNTA",
+      "admissionNo": "182/2016",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "KARUNA KUMARI",
+      "admissionNo": "312/2022",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KONDURU TEENASAMHITA",
+      "admissionNo": "03/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MONAL H N",
+      "admissionNo": "59/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "MONISHA MANJUNATHA",
+      "admissionNo": "148/2014",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NAISARGIKA DASH",
+      "admissionNo": "14/2016",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NEIL JONATHAN DAVID",
+      "admissionNo": "76/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "NIPUN R M",
+      "admissionNo": "65/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "PARTHIV SIRNA",
+      "admissionNo": "146/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "PURVI AMITKUMAR POTADAR",
+      "admissionNo": "132/2020",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "RISHIKA H",
+      "admissionNo": "58/2015",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "RISHITHA P MANNARAPOTTAYIL",
+      "admissionNo": "21/2014",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "S KEERTAAN",
+      "admissionNo": "54/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "S THARUN",
+      "admissionNo": "148/2023",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "SAMARA GLENYS",
+      "admissionNo": "159/2017",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAMYUKTHA S",
+      "admissionNo": "92/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SANVI BARIK",
+      "admissionNo": "180/2014",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SHASHIKAR CHITTURI",
+      "admissionNo": "38/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHIV SANKALP V",
+      "admissionNo": "23/2014",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHRITAN SWAROOP PAIK",
+      "admissionNo": "157/2014",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHRIYA K",
+      "admissionNo": "107/2021",
+      "std": "7 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SOMNATH KALYANKAR S",
+      "admissionNo": "105/2014",
+      "std": "7 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "SPARSHITH K",
+      "admissionNo": "124/2015",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "T DIKSHA REDDY",
+      "admissionNo": "136/2021",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "UPAGNA BHIMI",
+      "admissionNo": "39/2021",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "VARNIKA RAVISH",
+      "admissionNo": "26/2014",
+      "std": "7 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "VYBHAV G",
+      "admissionNo": "01/2015",
+      "std": "7 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "AADIT RAM",
+      "admissionNo": "137/2022",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "ARYA AJAY C",
+      "admissionNo": "17/2016",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "ASHIKA VARMA KOPPERLA",
+      "admissionNo": "07/2016",
+      "std": "7 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "BHAVISH V S",
+      "admissionNo": "113/2020",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "CHAKRESH REDDY",
+      "admissionNo": "112/2022",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DARSHAN DEGALA",
+      "admissionNo": "91/2015",
+      "std": "7 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "DHANYU S",
+      "admissionNo": "148/2016",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "HEMAMALINI S",
+      "admissionNo": "190/2014",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "ISHAN RAI",
+      "admissionNo": "169/2017",
+      "std": "7 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "K MUKESHA GOWDA",
+      "admissionNo": "93/2013",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "K U KOUSHIK",
+      "admissionNo": "06/2014",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KINSHUK U",
+      "admissionNo": "165/2018",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KRISHNA S",
+      "admissionNo": "136/2015",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "LASYA M",
+      "admissionNo": "021/2015",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "MADIHA ANAM",
+      "admissionNo": "102/2015",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "NIHAL CHOWDARY POTLURI",
+      "admissionNo": "109/2014",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NITYASRI RATNALA",
+      "admissionNo": "315/2022",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "P CHERRYSREE",
+      "admissionNo": "173/2016",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "R S PRINEETH",
+      "admissionNo": "113/2015",
+      "std": "7 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "RAJATH A",
+      "admissionNo": "20/2014",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "RANJAN C",
+      "admissionNo": "142/2014",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RASHMI G",
+      "admissionNo": "177/2018",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RIDDHI ARUN",
+      "admissionNo": "143/2020",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "RIYANSH SUMIT",
+      "admissionNo": "04/2014",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "S TANISHA",
+      "admissionNo": "16/2014",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHREYAS K",
+      "admissionNo": "75/2018",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SIDDARTH ESHWAR",
+      "admissionNo": "105/2019",
+      "std": "7 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SINDHU K",
+      "admissionNo": "149/2014",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SINGARAJU SAI VARSHINI N D",
+      "admissionNo": "130/2022",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SRI RAMAKRISHNAKUMAR D",
+      "admissionNo": "28/2014",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SRIYA AMRUT NAIR",
+      "admissionNo": "49/2021",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SUDEV S",
+      "admissionNo": "50/2014",
+      "std": "7 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "TEJASRAM DASARI",
+      "admissionNo": "86/2022",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "THANVIKA MANKULA",
+      "admissionNo": "038/2016",
+      "std": "7 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "VAISHNAVI J",
+      "admissionNo": "52/2017",
+      "std": "7 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "ALWYN S",
+      "admissionNo": "134/2014",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "ARHAAN ALIMANNAVAR",
+      "admissionNo": "78/2014",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "AYUR PRABHU",
+      "admissionNo": "29/2016",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "B SHRIVIDYA",
+      "admissionNo": "98/2014",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "BHAVISHYA V",
+      "admissionNo": "80/2017",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "C SAMRITHI",
+      "admissionNo": "145/2013",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "DHEDEEP S",
+      "admissionNo": "57/2013",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DIKSHIT B",
+      "admissionNo": "85/2016",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "DRAVID A",
+      "admissionNo": "46/2014",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "GIRISH U",
+      "admissionNo": "28/2023",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "HASINI R",
+      "admissionNo": "82/2021",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "JAGRUTHI S",
+      "admissionNo": "193/2014",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "KIRTTAN T",
+      "admissionNo": "84/2015",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KRITHIKA R CHARVEE",
+      "admissionNo": "52/2014",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "LAKSHANYA REDDY",
+      "admissionNo": "111/2022",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "LAKSHMI SHREEV",
+      "admissionNo": "45/2017",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LENORA NIKHIL",
+      "admissionNo": "40/2015",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "LOKNATH N",
+      "admissionNo": "141/2016",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "M VARUN",
+      "admissionNo": "13/2013",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MADDI NISHITH",
+      "admissionNo": "09/2017",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MALYALA JAYEESH KUMAR",
+      "admissionNo": "117/2015",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MEDA CHANDU",
+      "admissionNo": "65/2020",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "NISHIKANTH S",
+      "admissionNo": "159/2013",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "PRANAVI KURRA",
+      "admissionNo": "48/2016",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "PRATEEK MULBAGAL",
+      "admissionNo": "134/2013",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "PURVI GOVINDU",
+      "admissionNo": "89/2014",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "R MONISHRAJ",
+      "admissionNo": "34/2019",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "REUBEN ALPHONSUS",
+      "admissionNo": "118/2019",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "SANJANA P",
+      "admissionNo": "197/2022",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "SANJAY P",
+      "admissionNo": "198/2022",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "SATYA SAHANA",
+      "admissionNo": "084/2014",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHAIK AASHIF",
+      "admissionNo": "27/2013",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "SMRUTHI G PRASAD",
+      "admissionNo": "14/2013",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SNEHA K S",
+      "admissionNo": "52/2015",
+      "std": "8 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SOURABHI P",
+      "admissionNo": "114/2013",
+      "std": "8 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "SRUJAN ARUN",
+      "admissionNo": "99/2017",
+      "std": "8 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "V POORNESHWAR REDDY",
+      "admissionNo": "12/2014",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "VANMAYI M",
+      "admissionNo": "59/2020",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "VANSHIKA CHOWDARY G",
+      "admissionNo": "77/2013",
+      "std": "8 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "AAKASH PANDEY",
+      "admissionNo": "151/2013",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "AKSHITH SABIN",
+      "admissionNo": "009/2013",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "ANUSHREE M",
+      "admissionNo": "34/RTE/2015",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "BANDI MEGHANA",
+      "admissionNo": "16/2013",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "CHAITANYA HAVALE",
+      "admissionNo": "69/2013",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "CHARAN STANLEY",
+      "admissionNo": "79/2014",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "CHAVI",
+      "admissionNo": "58/2022",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DEEKSHA JAIN H",
+      "admissionNo": "102/2014",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "DHIRAJ M A",
+      "admissionNo": "140/2014",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "G B BHAVISHNA",
+      "admissionNo": "149/2015",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "INTETI SAMUEL",
+      "admissionNo": "81/2013",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "L BHARGAV",
+      "admissionNo": "24/2013",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LEENA PRIYAA P",
+      "admissionNo": "115/2020",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "LEKHARSH ELLAMPALLI",
+      "admissionNo": "78/2013",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "LEKSHA A",
+      "admissionNo": "120/2013",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "M C KARTHIK",
+      "admissionNo": "21/2013",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "MAHIMITHAA PREMNATH",
+      "admissionNo": "116/2018",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MOHAMMED ADIL SHARIF",
+      "admissionNo": "71/2014",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "NAVATEJAS GOWDA S R",
+      "admissionNo": "127/2014",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NIKITHA SAI N",
+      "admissionNo": "239/2023",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "NITHESH G",
+      "admissionNo": "106/2013",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "P H  YASHITA",
+      "admissionNo": "10/2016",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "PRARTHANA B",
+      "admissionNo": "102/2019",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "R DHEERAJ",
+      "admissionNo": "101/2013",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "S ARJUN NAIR",
+      "admissionNo": "45/2013",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "S K AFEEFA AIN",
+      "admissionNo": "126/2015",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "S SRI A CHANDRAMOULI",
+      "admissionNo": "22/2013",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "SACHITH G",
+      "admissionNo": "29/2013",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SAI MOKSHA PRADHA",
+      "admissionNo": "24/2021",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAMRA MAHREEN",
+      "admissionNo": "83/2016",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "SHARANYA V R",
+      "admissionNo": "44/2013",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHIKHA SRIVASTAV",
+      "admissionNo": "125/2013",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SIRI N KASHYAP",
+      "admissionNo": "02/2013",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "STUTI MEHTA",
+      "admissionNo": "58/2014",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "T SATHVIK BARATH",
+      "admissionNo": "87/2015",
+      "std": "8 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "TEJAS R",
+      "admissionNo": "166/2016",
+      "std": "8 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "VADAKATTU VENKATA MEDHANSH",
+      "admissionNo": "18/2015",
+      "std": "8 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "VIKASINI G",
+      "admissionNo": "088/2020",
+      "std": "8 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "A SAI NANDA KUMAR",
+      "admissionNo": "184/2014",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "ABHINAV NARRAVULA",
+      "admissionNo": "135/2016",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "ADITHYA S",
+      "admissionNo": "146/2022",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "ANUSHKA DIVEKAR",
+      "admissionNo": "20/2013",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "ASHWINA VAISHALI VELAN",
+      "admissionNo": "44/2018",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "BALA NIKHILA",
+      "admissionNo": "91/2016",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "CHIQUITARUNA GUTTULA",
+      "admissionNo": "05/2023",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DARSHITA S",
+      "admissionNo": "285/2022",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "DEBOPRIYA MANDAL",
+      "admissionNo": "41/2022",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DIMPLE E",
+      "admissionNo": "130/2013",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "DIYA S",
+      "admissionNo": "15/2013",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "G DHEERAJ",
+      "admissionNo": "71/2016",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "LAHARI M",
+      "admissionNo": "99/2013",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LAKSHAY REDDY",
+      "admissionNo": "110/2022",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LAKSHMESHAA M",
+      "admissionNo": "87/2013",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "LEKHYA S",
+      "admissionNo": "122/2021",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "M CHARAN REDDY",
+      "admissionNo": "92/2020",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "MADHAVANENI CHARITHA",
+      "admissionNo": "082/2014",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MANNURU TEJASHREE",
+      "admissionNo": "113/2022",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MOKSHA J",
+      "admissionNo": "66/2019",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "MRIDHUL KRISHNA",
+      "admissionNo": "19/2014",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "MUHAMMED AMEEN WARDI",
+      "admissionNo": "45/2014",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "NESAR SASTRY T H M",
+      "admissionNo": "049/2013",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "POORVASHREE M",
+      "admissionNo": "85/2013",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "RISHA R",
+      "admissionNo": "156/2014",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SADHANA E",
+      "admissionNo": "128/2021",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAI LITHARSH M V",
+      "admissionNo": "117/2016",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAMARTH D KAIBILI",
+      "admissionNo": "18/2014",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SAMRIDHI CHOUDHURY",
+      "admissionNo": "147/2013",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SANATH S",
+      "admissionNo": "43/2014",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SANJANA K",
+      "admissionNo": "87/2019",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SARWAN SHUKLA",
+      "admissionNo": "116/2013",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SHAIK PALLE AFIYA",
+      "admissionNo": "235/2023",
+      "std": "8 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SOMALA BHARGAVI REDDY",
+      "admissionNo": "68/2014",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "TEJASWINI ATTOTA",
+      "admissionNo": "164/2017",
+      "std": "8 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "VAISHNAVI AGRAWAL",
+      "admissionNo": "17/2014",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "VARSHA R",
+      "admissionNo": "41/2013",
+      "std": "8 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "ZEPHANIAH Y V",
+      "admissionNo": "57/2018",
+      "std": "8 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "A MADIYA TAJ",
+      "admissionNo": "36/RTE/2015",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "AFIFA FATHIMA",
+      "admissionNo": "149/2012",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "ANUSHKA G",
+      "admissionNo": "63/2013",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "B CHAITANYA",
+      "admissionNo": "131/2018",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "C P VACHAN",
+      "admissionNo": "59/2012",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "DARSHAN A",
+      "admissionNo": "138/2012",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "DHANUSH M HEGDE",
+      "admissionNo": "07/2012",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "DHANVANTHI R S",
+      "admissionNo": "01/2012",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DHEERAJ R",
+      "admissionNo": "49/2012",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "EQRAH FATHIMA M",
+      "admissionNo": "293/2022",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "G A DHEEKSHA",
+      "admissionNo": "165/2012",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "GANAVI M",
+      "admissionNo": "16/2012",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "GUNARANJAN N S",
+      "admissionNo": "19/RTE/2015",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "HARISH KUMAR S",
+      "admissionNo": "31/2013",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "HINDOL ROY CHOUDHURY",
+      "admissionNo": "10/2012",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "JAHNAVI R",
+      "admissionNo": "272/2022",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "K YASHASWINI",
+      "admissionNo": "31/RTE/2015",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "KASHVI HARISEELAM",
+      "admissionNo": "97/2012",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KUSHAL M",
+      "admissionNo": "22/2015",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "KUSUM KUMARI",
+      "admissionNo": "311/2022",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "L S ROHITH",
+      "admissionNo": "69/2012",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "MANASA G S",
+      "admissionNo": "13/RTE/2015",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "PRAJVAL ABIJITH S",
+      "admissionNo": "39/RTE/2015",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "ROHINI N",
+      "admissionNo": "26/RTE/2015",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "S SHREYAS SANJEEV",
+      "admissionNo": "73/2011",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAI VIGNESH E S",
+      "admissionNo": "112/2015",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHRAVANTH A",
+      "admissionNo": "124/2013",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHREYAS J ARADHYA",
+      "admissionNo": "082/2015",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "TEJASWI A",
+      "admissionNo": "163/2022",
+      "std": "9 - A",
+      "house": "HARROW"
+    },
+    {
+      "name": "THOTA DIVIJASRI",
+      "admissionNo": "182/2022",
+      "std": "9 - A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "V RUPASHREE",
+      "admissionNo": "94/2012",
+      "std": "9 - A",
+      "house": "ETON"
+    },
+    {
+      "name": "YESHAS SRIHARI S",
+      "admissionNo": "90/2012",
+      "std": "9 - A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "A R TEJASHWINI",
+      "admissionNo": "113/2018",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "ASHWIN M",
+      "admissionNo": "229/2022",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "BHANAVI M",
+      "admissionNo": "29/RTE/2015",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "BHAVESH SHARMA",
+      "admissionNo": "75/2014",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "C ANJALI",
+      "admissionNo": "38/RTE/2015",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "DHANYASHREE R",
+      "admissionNo": "128/2015",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DIYA RAVINDRAN PADMASHALI",
+      "admissionNo": "11/2012",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "DRUTI M",
+      "admissionNo": "113/2012",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "KAVYASHREE S",
+      "admissionNo": "159/2012",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KHUSHI BILAMKAR",
+      "admissionNo": "77/2012",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "KRIDAY CHARITH",
+      "admissionNo": "69/2020",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "LIKITHA G",
+      "admissionNo": "42/RTE/2015",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "M S ADHITHYA PRASANNA",
+      "admissionNo": "64/2013",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "MANHA FATIMA SHAIK",
+      "admissionNo": "56/2012",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MEGHA RAMASWAMI",
+      "admissionNo": "46/2021",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MOHAMMED HASNAIN",
+      "admissionNo": "156/2013",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "MRIDINI GANESH",
+      "admissionNo": "167/2011",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "N YASHWANTH",
+      "admissionNo": "101/2012",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "PARINITHA KOPPANATHI",
+      "admissionNo": "80/2013",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "PAVAN GOWDA V",
+      "admissionNo": "137/2012",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "PRINCE MAHESH",
+      "admissionNo": "35/RTE/2015",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SAIDRASHANI",
+      "admissionNo": "22/RTE/2015",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "SAMANYU CHOUDHURY",
+      "admissionNo": "03/2013",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SAMIKSHA D",
+      "admissionNo": "05/2012",
+      "std": "9 - B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SANJANA R",
+      "admissionNo": "17/RTE/2015",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHANE RENISH A",
+      "admissionNo": "23/2012",
+      "std": "9 - B",
+      "house": "ETON"
+    },
+    {
+      "name": "SUSHMITA S",
+      "admissionNo": "170/2018",
+      "std": "9 - B",
+      "house": "HARROW"
+    },
+    {
+      "name": "VISHWATEJA G",
+      "admissionNo": "138/2022",
+      "std": "9 - B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "ABHIGHNA H L",
+      "admissionNo": "37/RTE/2015",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "ATTHULOORI SWETHASHREE",
+      "admissionNo": "135/2012",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "B PRITHVI RAJ",
+      "admissionNo": "22/2019",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "DHRITHI J MENDON",
+      "admissionNo": "37/2012",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "DIVYA JYOTI BHADRA",
+      "admissionNo": "141/2020",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "DRUPADRAM R",
+      "admissionNo": "12/2013",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "G NAGACHAITHANYA",
+      "admissionNo": "109/2015",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "GEETHIKA SINGH S",
+      "admissionNo": "65/2012",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "GOWRIKA PANDALA",
+      "admissionNo": "76/2012",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "GURU CHARAN G",
+      "admissionNo": "109/2012",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "H S AMISHRAJ",
+      "admissionNo": "38/2013",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "HARSHA VARDHANL",
+      "admissionNo": "53/2020",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KRUSHI K K",
+      "admissionNo": "02/RTE/2015",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "LAKSHITHA P",
+      "admissionNo": "41/RTE/2015",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "M B MOHNISH",
+      "admissionNo": "02/2012",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "MADHURA M",
+      "admissionNo": "45/2020",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "NICKY R",
+      "admissionNo": "26/2012",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "NITHESH YADAV M",
+      "admissionNo": "139/2012",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NITIN ABISHEK P",
+      "admissionNo": "20/RTE/2015",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "PUCHAGINJALA BHUVANA SAI",
+      "admissionNo": "79/2013",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "PUNEETH DADDUR",
+      "admissionNo": "25/RTE/2015",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "R KOUSHIK",
+      "admissionNo": "36/2013",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "R LAKSHMI THARIKA",
+      "admissionNo": "17/2012",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RIDDHI RAAJYEESH ADITHIYA",
+      "admissionNo": "135/2013",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "RIMSHA P MANNARAPOTAYIL",
+      "admissionNo": "28/2013",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "S MOHAMED RAFAN",
+      "admissionNo": "158/2012",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SADHANA M",
+      "admissionNo": "03/RTE/2015",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "SHAURYA PANDEY",
+      "admissionNo": "152/2012",
+      "std": "9 - C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SUMUKH RAYAVARAPU",
+      "admissionNo": "137/2013",
+      "std": "9 - C",
+      "house": "ETON"
+    },
+    {
+      "name": "THANMAY YADAV N",
+      "admissionNo": "157/2016",
+      "std": "9 - C",
+      "house": "HARROW"
+    },
+    {
+      "name": "THANUJA  K",
+      "admissionNo": "14/RTE/2015",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "V ASHISH",
+      "admissionNo": "40/2018",
+      "std": "9 - C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "ADITI REDDY A",
+      "admissionNo": "11/2013",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "AKSHAJ S",
+      "admissionNo": "35/2012",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "ARUSH NEGI",
+      "admissionNo": "38/2012",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "B SARAH JOSEPHINE",
+      "admissionNo": "03/2012",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "BHOOMIKA R",
+      "admissionNo": "16/RTE/2015",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "BODAPATI SARANYACHOWDARY",
+      "admissionNo": "086/2013",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "CHIKITH C",
+      "admissionNo": "04/RTE/2015",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "CHIRANTHAN V",
+      "admissionNo": "08/2013",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "G DHANYA",
+      "admissionNo": "28/2017",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "G R C ABHEESHEK",
+      "admissionNo": "155/2012",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "GAGAN S",
+      "admissionNo": "105/2015",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "GITA SHRI M",
+      "admissionNo": "106/2015",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "J NISHANTH",
+      "admissionNo": "112/2012",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "JAHNAVI NANDURI",
+      "admissionNo": "122/2020",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "JEREMY SAM ASHISH",
+      "admissionNo": "100/2012",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "JOSHITHA REDDY V",
+      "admissionNo": "05/RTE/2015",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "LAHARI V",
+      "admissionNo": "22/2012",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "MANASVI RHOLAL",
+      "admissionNo": "60/2012",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "MOHAMMED AYAAN",
+      "admissionNo": "169/2012",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RASHMITHA R REDDY",
+      "admissionNo": "29/2012",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "S DARSINI",
+      "admissionNo": "04/2012",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SACHITH PRABHU HONNIGANAHATTY",
+      "admissionNo": "57/2012",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "SANJANA SIRNA",
+      "admissionNo": "10/RTE/2015",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SARPALLI TARUN KUMAR",
+      "admissionNo": "110/2016",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SHASHANK H A",
+      "admissionNo": "34/2012",
+      "std": "9 - D",
+      "house": "ETON"
+    },
+    {
+      "name": "SHOURYA S KASHYAP",
+      "admissionNo": "50/2012",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "SRI VARSHA D",
+      "admissionNo": "62/2020",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "TAQIULLAH RAFEEQ  S",
+      "admissionNo": "044/2021",
+      "std": "9 - D",
+      "house": "LEEDS"
+    },
+    {
+      "name": "VANSHIKA AGARWAL",
+      "admissionNo": "08/2012",
+      "std": "9 - D",
+      "house": "OXFORD"
+    },
+    {
+      "name": "YOGESH J",
+      "admissionNo": "121/2015",
+      "std": "9 - D",
+      "house": "HARROW"
+    },
+    {
+      "name": "ADIRATH A",
+      "admissionNo": "074/2011",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "AGNES ANGELIN T",
+      "admissionNo": "177/2011/RTE",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "ANNA MARIA DOMINIC",
+      "admissionNo": "34/2010",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "BHARGAV REDDY D",
+      "admissionNo": "RTE/09/2014",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "BHUVANA ARADHITHA K",
+      "admissionNo": "14/2011",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "C DEVI PRASAD",
+      "admissionNo": "66/2011",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "CHIRAG MULBAGAL",
+      "admissionNo": "172/2012",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "D G SANGAMITHRA",
+      "admissionNo": "63/2011",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "D KOVID",
+      "admissionNo": "208/2011",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "EVAN NELSON RAJESH",
+      "admissionNo": "93/2011",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "FAHID AHMED",
+      "admissionNo": "168/2011",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "G HITESH REDDY",
+      "admissionNo": "121/2011",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "G NAVEEN",
+      "admissionNo": "148/2012",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "HANSIKA S",
+      "admissionNo": "55/2012",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "HARIHARAN SRIVATSAV M",
+      "admissionNo": "114/2011",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "I SADHANA",
+      "admissionNo": "28/2011",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "IQRA FATHIMA E C",
+      "admissionNo": "108/2014",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "J SANVI",
+      "admissionNo": "120/2011/RTE",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "JOSHITH  NARNAVARAM",
+      "admissionNo": "61/2017",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KRITHIK GOWDA M",
+      "admissionNo": "140/2020",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "MOHAMMED MOHSIN",
+      "admissionNo": "176/2014",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "NIHARIKA V",
+      "admissionNo": "163/2011",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "OOVIYA GANESHAN",
+      "admissionNo": "021/2011/RTE",
+      "std": "10 A",
+      "house": "ETON"
+    },
+    {
+      "name": "PAWAN KALYAN N",
+      "admissionNo": "198/2011",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "POLARAPU PREKSHA SREENIVAS",
+      "admissionNo": "107/2018",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "PULLAIAHGARI SAI VAISHNAVI",
+      "admissionNo": "15/2012",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "R MANESH",
+      "admissionNo": "86/2011",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "RISHI ESHWAR",
+      "admissionNo": "106/2019",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "RISHIKESH ADITHYA",
+      "admissionNo": "88/2015",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "S GRHITHA",
+      "admissionNo": "115/2011",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHAISTHA K N",
+      "admissionNo": "179/2016",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "SHASHANKA S",
+      "admissionNo": "13/2011",
+      "std": "10 A",
+      "house": "HARROW"
+    },
+    {
+      "name": "SRIRAM H K",
+      "admissionNo": "04/2011",
+      "std": "10 A",
+      "house": "OXFORD"
+    },
+    {
+      "name": "TANISHA M",
+      "admissionNo": "25/2011",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "V PRAKRUTHI",
+      "admissionNo": "107/2012/RTE",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "V S RAMSAKRUTH",
+      "admissionNo": "176/2011",
+      "std": "10 A",
+      "house": "LEEDS"
+    },
+    {
+      "name": "ABHINAV KONDA",
+      "admissionNo": "119/2012",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "ADITYA SINGH",
+      "admissionNo": "137/2011",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "BHUMIKA B",
+      "admissionNo": "116/2011/RTE",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "BILWASHREE H A",
+      "admissionNo": "64/2012/RTE",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "C RISHA",
+      "admissionNo": "71/2011",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "DHANUSH C K",
+      "admissionNo": "148/2011",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "G M ROSHINI",
+      "admissionNo": "172/2011/RTE",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "GAYATHRI Y P",
+      "admissionNo": "26/2011",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "HARSHINI C",
+      "admissionNo": "134/2015",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "HARSHITH KUMAR V",
+      "admissionNo": "139/2011",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "J ROSHNI REDDY",
+      "admissionNo": "48/2011",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "JENYA M S",
+      "admissionNo": "145/2019",
+      "std": "10 B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "JYOTSNAA S",
+      "admissionNo": "56/2011",
+      "std": "10 B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "LAASYA",
+      "admissionNo": "143/2011",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MANJUSRI S",
+      "admissionNo": "199/2011",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MOHAMMED SHAHID",
+      "admissionNo": "05/2011",
+      "std": "10 B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MUKUNDHA M",
+      "admissionNo": "02/2011/RTE",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "NABHA SARITHA E",
+      "admissionNo": "47/2013",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "R DEEPESH",
+      "admissionNo": "125/2010",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "R ZAINA HAYATH",
+      "admissionNo": "09/2011",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "REHAAN SHEIQ A",
+      "admissionNo": "85/2012",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "REHHAN THEJA R",
+      "admissionNo": "96/201/2RTE",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "S HARISHMITHA",
+      "admissionNo": "57/2011/RTE",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "S HITESHKESHAV GOWDA",
+      "admissionNo": "166/2012",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SAIRESH AHAMAD",
+      "admissionNo": "RTE/16/2014",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SARAH GLADYS",
+      "admissionNo": "173/2014",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHAWN ROBIN HENRY",
+      "admissionNo": "75/2011",
+      "std": "10 B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SHLOK ARUN",
+      "admissionNo": "142/2020",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "SRIKAR CHITTURI",
+      "admissionNo": "152/2011",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "SUDIN S",
+      "admissionNo": "142/2011",
+      "std": "10 B",
+      "house": "LEEDS"
+    },
+    {
+      "name": "TEJASVINI R",
+      "admissionNo": "160/2012/RTE",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "THANMAYI R",
+      "admissionNo": "171/2011",
+      "std": "10 B",
+      "house": "HARROW"
+    },
+    {
+      "name": "VARSHINI M",
+      "admissionNo": "RTE/06/2014",
+      "std": "10 B",
+      "house": "ETON"
+    },
+    {
+      "name": "VENKAT SWAROOP RAJU",
+      "admissionNo": "174/2011",
+      "std": "10 B",
+      "house": "OXFORD"
+    },
+    {
+      "name": "A KUSHAL CHOUDHARY",
+      "admissionNo": "114/2021",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "AKASH T MADAN",
+      "admissionNo": "24/2011",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "B R GEETHASHREE",
+      "admissionNo": "0105/2011/RTE",
+      "std": "10 C",
+      "house": "ETON"
+    },
+    {
+      "name": "B V TANUSH",
+      "admissionNo": "50/2011",
+      "std": "10 C",
+      "house": "ETON"
+    },
+    {
+      "name": "BRUNDHA R",
+      "admissionNo": "03/2011",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "CHARUSMITA A",
+      "admissionNo": "20/2011",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "D G CHANDANA",
+      "admissionNo": "96/2017",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "HARSHITH V",
+      "admissionNo": "RTE/11/2014",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "HARSHITHA J",
+      "admissionNo": "97/2011",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "HEMANTH S",
+      "admissionNo": "RTE/07/2014",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "K ANUSHA",
+      "admissionNo": "29/2011",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "KARAN  R",
+      "admissionNo": "22/2011",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "KARTHIK KUMAR DHAYAPULLE",
+      "admissionNo": "37/2015",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "M C CHARVITHA",
+      "admissionNo": "95/2011",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "MAANYA J",
+      "admissionNo": "16/2011",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "MOHID AZEEM",
+      "admissionNo": "155/2011",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "MOHIT BABU G",
+      "admissionNo": "149/2017",
+      "std": "10 C",
+      "house": "ETON"
+    },
+    {
+      "name": "MOHITH K R",
+      "admissionNo": "197/2011/RTE",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "NIHAL SHARIEF",
+      "admissionNo": "83/2012/RTE",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "NIVEDITHA N",
+      "admissionNo": "188/2011",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "P SANSKRITHI",
+      "admissionNo": "145/2011",
+      "std": "10 C",
+      "house": "ETON"
+    },
+    {
+      "name": "R SUJITH",
+      "admissionNo": "131/2020",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "RITHIKA SURESH ASHTKAR",
+      "admissionNo": "11/2011",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SAMUEL S",
+      "admissionNo": "133/2014",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SANSKRITHI VARMA",
+      "admissionNo": "190/2011",
+      "std": "10 C",
+      "house": "ETON"
+    },
+    {
+      "name": "SAYED FAWAAZ",
+      "admissionNo": "170/2011",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SHASHANK K",
+      "admissionNo": "0131/2011/RTE",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "SRIJA GHOSH",
+      "admissionNo": "12/2011",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "SUHAS S SIDDARTH",
+      "admissionNo": "89/2011/RTE",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "SUSHANTH YADAV K R",
+      "admissionNo": "173/2012/RTE",
+      "std": "10 C",
+      "house": "LEEDS"
+    },
+    {
+      "name": "T THANUSHREE",
+      "admissionNo": "200/2011/RTE",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "TANYA MARIAM JACOB",
+      "admissionNo": "19/2011",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "TARUNYA M",
+      "admissionNo": "019/2012",
+      "std": "10 C",
+      "house": "HARROW"
+    },
+    {
+      "name": "THRISHA N",
+      "admissionNo": "63/2015",
+      "std": "10 C",
+      "house": "OXFORD"
+    },
+    {
+      "name": "VAISHNAVI S",
+      "admissionNo": "RTE/04/2014",
+      "std": "10 C",
+      "house": "LEEDS"
+    }
+]

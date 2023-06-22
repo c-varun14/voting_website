@@ -1,0 +1,179 @@
+[
+  {
+    "ministry": "Prime Minister",
+    "candidates": [
+      { "name": "R DEEPESH", "admissionNo": "125/2010", "std": "10 B" },
+      { "name": "MOHID AZEEM", "admissionNo": "155/2011", "std": "10 C" }
+    ]
+  },
+  {
+    "ministry": "Health and Safety Minister",
+    "candidates": [
+      { "name": "NIHARIKA V", "admissionNo": "163/2011", "std": "10 A" },
+      {
+        "name": "REHHAN THEJA R",
+        "admissionNo": "96/201/2RTE",
+        "std": "10 B"
+      }
+    ]
+  },
+  {
+    "ministry": "Education Minister",
+    "candidates": [
+      {
+        "name": "C DEVI PRASAD",
+        "admissionNo": "66/2011",
+        "std": "10 A"
+      },
+      { "name": "DHANUSH C K", "admissionNo": "148/2011", "std": "10 B" }
+    ]
+  },
+  {
+    "ministry": "Discipline Minister",
+    "candidates": [
+      { "name": "C RISHA", "admissionNo": "71/2011", "std": "10 B" },
+      { "name": "M C CHARVITHA", "admissionNo": "95/2011", "std": "10 C" }
+    ]
+  },
+  {
+    "ministry": "Broadcast Minister",
+    "candidates": [
+      { "name": "KRITHIK GOWDA M", "admissionNo": "140/2020", "std": "10 A" },
+      { "name": "S HARISHMITHA", "admissionNo": "57/2011/RTE", "std": "10 B" }
+    ]
+  },
+  {
+    "ministry": "Environment Minister",
+    "candidates": [
+      { "name": "HARSHITHA J", "admissionNo": "97/2011", "std": "10 C" },
+      {
+        "name": "B R GEETHASHREE",
+        "admissionNo": "0105/2011/RTE",
+        "std": "10 C"
+      }
+    ]
+  },
+  {
+    "ministry": "Cultural Minister",
+    "candidates": [
+      { "name": "D KOVID", "admissionNo": "208/2011", "std": "10 A" },
+      { "name": "HARSHINI C", "admissionNo": "134/2015", "std": "10 B" }
+    ]
+  },
+  {
+    "ministry": "Transport Minister",
+    "candidates": [
+      { "name": "J SANVI", "admissionNo": "120/2011/RTE", "std": "10 A" },
+      { "name": "THANMAYI R", "admissionNo": "171/2011", "std": "10 B" }
+    ]
+  },
+  {
+    "ministry": "Sports Minister",
+    "candidates": [
+      { "name": "FAHID AHMED", "admissionNo": "168/2011", "std": "10 A" },
+      {
+        "name": "D G CHANDANA",
+        "admissionNo": "96/2017",
+        "std": "10 C"
+      }
+    ]
+  },
+  {
+    "ministry": "Vice President",
+    "candidates": [
+      { "name": "VANSHIKA AGARWAL", "admissionNo": "08/2012", "std": "9 - D" },
+      {
+        "name": "ATTHULOORI SWETHASHREE",
+        "admissionNo": "135/2012",
+        "std": "9 - C"
+      }
+    ]
+  },
+  {
+    "ministry": "Deputy Prime Minister",
+    "candidates": [
+      {
+        "name": "GUNARANJAN N S",
+        "admissionNo": "19/RTE/2015",
+        "std": "9 - A"
+      },
+      { "name": "RASHMITHA R REDDY", "admissionNo": "29/2012", "std": "9 - D" }
+    ]
+  },
+  {
+    "ministry": "Deputy Health and Safety Minister",
+    "candidates": [
+      { "name": "B SARAH JOSEPHINE", "admissionNo": "03/2012", "std": "9 - D" },
+      { "name": "G DHANYA", "admissionNo": "28/2017", "std": "9 - D" }
+    ]
+  },
+  {
+    "ministry": "Deputy Education Minister",
+    "candidates": [
+      { "name": "CHIRANTHAN V", "admissionNo": "08/2013", "std": "9 - D" },
+      { "name": "KASHVI HARISEELAM", "admissionNo": "97/2012", "std": "9 - A" }
+    ]
+  },
+  {
+    "ministry": "Deputy Discipline Minister",
+    "candidates": [
+      { "name": "SRI VARSHA D", "admissionNo": "62/2020", "std": "9 - D" },
+      {
+        "name": "RIMSHA P MANNARAPOTAYIL",
+        "admissionNo": "28/2013",
+        "std": "9 - C"
+      }
+    ]
+  },
+  {
+    "ministry": "Deputy Broadcast Minister",
+    "candidates": [
+      {
+        "name": "RIDDHI RAAJYEESH ADITHIYA",
+        "admissionNo": "135/2013",
+        "std": "9 - C"
+      },
+      {
+        "name": "NICKY R",
+        "admissionNo": "26/2012",
+        "std": "9 - C"
+      }
+    ]
+  },
+  {
+    "ministry": "Deputy Environment Minister",
+    "candidates": [
+      { "name": "GOWRIKA PANDALA", "admissionNo": "76/2012", "std": "9 - C" },
+      {
+        "name": "HARSHA VARDHANL",
+        "admissionNo": "53/2020",
+        "std": "9 - C"
+      }
+    ]
+  },
+  {
+    "ministry": "Deputy Cultural Minister",
+    "candidates": [
+      { "name": "MANASA G S", "admissionNo": "13/RTE/2015", "std": "9 - A" },
+      { "name": "THANMAY YADAV N", "admissionNo": "157/2016", "std": "9 - C" }
+    ]
+  },
+  {
+    "ministry": "Deputy Transport Minister",
+    "candidates": [
+      {
+        "name": "BODAPATI SARANYACHOWDARY",
+        "admissionNo": "086/2013",
+        "std": "9 - D"
+      },
+      { "name": "B PRITHVI RAJ", "admissionNo": "22/2019", "std": "9 - C" }
+    ]
+  },
+  {
+    "ministry": "Deputy Sports Minister",
+    "candidates": [
+      { "name": "C P VACHAN", "admissionNo": "59/2012", "std": "9 - A" },
+      { "name": "SADHANA M", "admissionNo": "03/RTE/2015", "std": "9 - C" }
+    ]
+  }
+]
