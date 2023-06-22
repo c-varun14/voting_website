@@ -52,9 +52,9 @@ export default function LoginForm() {
   };
   const submitModal = (e: React.MouseEvent) => {
     e.preventDefault();
+
     localStorage.setItem("admissionNo", data.admissionNo);
     localStorage.setItem("house", data.house);
-    console.log(localStorage.getItem("admissionNo"));
     return router.push("/");
   };
   console.log(data);

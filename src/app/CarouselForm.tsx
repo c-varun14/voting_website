@@ -29,7 +29,7 @@ const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
 export default function CarouselForm({
-  candidatesData,
+  candidatesDat a,
 }: {
   candidatesData: CandidateData[];
 }): JSX.Element {
@@ -37,10 +37,13 @@ export default function CarouselForm({
     mutationFn: async (finalData: Vote[]) =>
       await axios.post("/api", finalData),
   });
-
+  let extraData;
+  let studentAdmissionNo
+if(typeof window !== "undefined"){
   const studentHouse = localStorage.getItem("house");
-  const extraData = houseData[String(studentHouse)];
-  const studentAdmissionNo = localStorage.getItem("admissionNo");
+  extraData = houseData[String(studentHouse)];
+  studentAdmissionNo= localStorage.getItem("admissionNo");
+  }
   const router = useRouter();
   const [currSlide, setcurrSlide] = useState(0);
   const [vote, setVote] = useState<string>("");
