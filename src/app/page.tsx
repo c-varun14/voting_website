@@ -1,6 +1,6 @@
-import Carousel from "./Carousel";
 import candidatesData from "../candidatesData.json";
 import Providers from "@/lib/reactQuery";
+import Carousel from "./Carousel";
 
 export default async function Page() {
   return (

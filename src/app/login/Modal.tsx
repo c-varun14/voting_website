@@ -1,3 +1,4 @@
+import { EventHandler } from "react";
 import Loading from "../loading";
 
 const Modal = ({
@@ -12,6 +13,8 @@ const Modal = ({
   dialogRef: React.Ref;
   isInitialLoading: boolean;
   isError: boolean;
+  data: { admissionNo: string; std: string; house: string; name: string };
+  submitHandler: EventHandler;
 }) => {
   if (isError) dialogRef.current?.close();
   return (

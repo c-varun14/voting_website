@@ -20,6 +20,7 @@ type Vote = {
 };
 
 const submitData: Vote[] = [];
+
 const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
@@ -33,7 +34,7 @@ export default function Carousel({
   });
 
   const studentHouse = localStorage.getItem("house");
-  const extraData = houseData[studentHouse];
+  const extraData = houseData[String(studentHouse)];
   const studentAdmissionNo = localStorage.getItem("admissionNo");
   const router = useRouter();
   const [currSlide, setcurrSlide] = useState(0);
