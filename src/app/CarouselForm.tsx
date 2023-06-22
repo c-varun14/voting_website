@@ -18,19 +18,24 @@ type Vote = {
   candidateAdmissionNo: string;
   voterAdmissionNo: string;
 };
+type CandidateData = {
+  ministry: string;
+  candidates: Candidate[];
+};
 
 const submitData: Vote[] = [];
 
 const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
-export default function Carousel({
+export default function CarouselForm({
   candidatesData,
 }: {
-  candidatesData: Array<{ ministry: string; candidates: Candidate[] }>;
+  candidatesData: CandidateData[];
 }) {
   const { mutate, isLoading, isError, isSuccess } = useMutation({
-    mutationFn: async (finalData) => await axios.post("/api", finalData),
+    mutationFn: async (finalData: Vote[]) =>
+      await axios.post("/api", finalData),
   });
 
   const studentHouse = localStorage.getItem("house");
