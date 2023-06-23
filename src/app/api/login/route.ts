@@ -16,7 +16,7 @@ export async function GET(req: NextRequest) {
     if (!data) throw new Error();
     return NextResponse.json(data);
   } catch (err) {
-    return NextResponse.json({ message: "Enter a correct admissionNo" }, { status: 400 });
+    return NextResponse.json({ message: err }, { status: 400 });
   }
 }
 
