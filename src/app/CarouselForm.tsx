@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import houseData from "./houseMinistry";
@@ -29,7 +29,7 @@ const cardClasses =
   "w-44 h-fit my-8 mx-16 cursor-pointer shadow-brand block shadow-lg rounded";
 
 export default function CarouselForm({
-  candidatesDat a,
+  candidatesData,
 }: {
   candidatesData: CandidateData[];
 }): JSX.Element {
@@ -38,16 +38,19 @@ export default function CarouselForm({
       await axios.post("/api", finalData),
   });
   let extraData;
-  let studentAdmissionNo
-if(typeof window !== "undefined"){
-  const studentHouse = localStorage.getItem("house");
-  extraData = houseData[String(studentHouse)];
-  studentAdmissionNo= localStorage.getItem("admissionNo");
+  let studentAdmissionNo;
+  if (typeof window !== "undefined") {
+    const studentHouse = localStorage.getItem("house");
+    extraData = houseData[String(studentHouse)];
+    studentAdmissionNo = localStorage.getItem("admissionNo");
   }
   const router = useRouter();
   const [currSlide, setcurrSlide] = useState(0);
   const [vote, setVote] = useState<string>("");
   const [btnEnabled, setbtnEnabled] = useState<boolean>(false);
+  useEffect(() => {
+    if (isSuccess) router.push("/login");
+  });
   if (!studentAdmissionNo) router.push("/login");
 
   if (isError) {
@@ -56,8 +59,7 @@ if(typeof window !== "undefined"){
         Enter a correct Admission No
       </p>
     );
-  } else if (isSuccess) router.push("/login");
-  else if (isLoading) return <Loading className="bg-darkest" />;
+  } else if (isLoading) return <Loading className="bg-darkest" />;
 
   if (candidatesData.length === 19 && extraData) {
     candidatesData.splice(9, 0, extraData[0]);
