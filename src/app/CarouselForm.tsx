@@ -76,6 +76,7 @@ export default function CarouselForm({
     setVote("");
   };
   const submitHandler = async () => {
+    console.log(submitData);
     if (window) {
       localStorage.removeItem("admissionNo");
       localStorage.removeItem("house");
@@ -84,7 +85,6 @@ export default function CarouselForm({
     candidatesData.splice(8, 1);
     console.log(submitData);
     await mutate(submitData);
-    submitData.splice(0, submitData.length);
     console.log(submitData);
     setVote("");
   };
