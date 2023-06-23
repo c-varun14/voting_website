@@ -50,8 +50,9 @@ export default function CarouselForm({
   const [btnEnabled, setbtnEnabled] = useState<boolean>(false);
   useEffect(() => {
     if (isSuccess) router.push("/login");
+      if (!studentAdmissionNo) router.push("/login");
   });
-  if (!studentAdmissionNo) router.push("/login");
+
 
   if (isError) {
     return (
